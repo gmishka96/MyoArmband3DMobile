@@ -16,3 +16,4 @@ Version of Unity used: 2020.3.30f1
 
 P.S.: the import to Unity 2020.3.37f1 was terrible.
 P.P.S.: the application might not run on Android 10 and higher as it and the custom plugin were tested against Android 9 only.
+Plugin can be found here: https://github.com/gmishka96/MyoAndroidBlePlugin
