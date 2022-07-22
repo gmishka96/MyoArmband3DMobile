@@ -5,7 +5,7 @@ The connection is established using a custom Android plugin that provides a BLE 
 The 3D application contains:
 - a prefab character model to which head a camera is attached
 - script that reads the phone gyro to rotate the camera along with the phone
-- script that rotates the left hand according to the band orientation and mirros the right left hand.
+- script that rotates the left hand according to the band orientation and mirros the right hand.
 
 It is assumed that the band is on the left forearm with LED on top and pointing to elbow.
 
